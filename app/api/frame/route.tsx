@@ -7,7 +7,7 @@ async function getResponse(req: NextRequest): Promise<NextResponse> {
 
   const nextId = idAsNumber + 1
 
-  if(idAsNumber === 3){
+  if(idAsNumber === 2){
       return new NextResponse(`<!DOCTYPE html><html><head>
     <title>This is frame 3</title>
     <meta property="fc:frame" content="vNext" />
