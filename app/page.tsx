@@ -4,7 +4,7 @@ import type { Metadata } from 'next';
 const frameMetadata = getFrameMetadata({
   buttons: [
     {
-      label: "test"
+      label: "begin s3xysh1t"
     }
   ],
   image: `${process.env.NEXT_PUBLIC_GATEWAY_URL}/ipfs/QmVf8be8nZGLMBPTDqsLFAft7PgD3HLoXr2vAgfbJ4WYzw/0.png`,
